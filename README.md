@@ -11,7 +11,7 @@
   </a>
 
 <a href="https://github.com/deepsarda/Aeona">
-  A discord bot in over 1.7k servers.
+  A discord bot in over 6k servers.
   </a>
  </p>
 
