@@ -1,34 +1,45 @@
-<!--<h1 align="center">Hi 👋</h1>-->
-<!--<h3 align="center">A student who likes to code</h3>-->
 
+# **✨ Hi, I’m Deep**
+### A college student that loves thinkering in AI, exploring game dev & building tools and applications
+### Highlights
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepsarda&theme=radical" alt="deepsarda" /></a> </p>
+* 🧠 **AI research**: exploring agentic systems, linear-attention LLMs, multimodal diffusion-LLM hybrids, and efficient training pipelines using PyTorch + HF Transformers.
+* 🎮 **Game development**: Unity, Babylonjs, procedural systems, gameplay tools.
+* 🕸️ **Web engineering**: Svelte, React, Tailwind, Nodejs.
+* ⚙️ **Aeona** (deprecated): once lived in **15k Discord servers** with **10k monthly active users** at its peak.
 
-<h3 align="left">Working on</h3>
-<p align="left"> 
-<a href="https://huggingface.co/deepparag/Aeona">
-  A chatbot
-  </a>
+# 🔧 Tech & Tools
 
-<a href="https://github.com/deepsarda/Aeona">
-  A discord bot in over 10k servers.
-  </a>
- </p>
-
-
-<h3 align="left">Experienced in:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsarda&show_icons=true&theme=radical&locale=en&layout=compact" alt="deepsarda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepsarda&show_icons=true&theme=radical&locale=en" alt="deepsarda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsarda&theme=radical" alt="deepsarda" /></p>
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/deepsarda/count.svg" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" />
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="36" />
+  <img src="https://raw.githubusercontent.com/onnx/onnx/main/docs/source/_static/transformers.svg" width="36" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="36" />
 </p>
+
+# 🌐 GitHub Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepsarda&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepsarda&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepsarda&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepsarda&theme=dark" />
+
+
+<p align="center">
+  <a href="https://skyline.github.com/deepsarda"><img src="https://img.shields.io/badge/3D%20Skyline-View-blueviolet?style=for-the-badge" /></a>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepsarda&theme=react-dark&hide_border=true&area=true" />
+</p>
+
