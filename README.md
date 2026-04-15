@@ -29,7 +29,7 @@
 # 🌐 GitHub Metrics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepsarda&theme=dark&utcOffset=5.5" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepsarda&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepsarda&theme=dark&utcOffset=5.5" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepsarda&theme=dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepsarda&theme=dark" />
 
